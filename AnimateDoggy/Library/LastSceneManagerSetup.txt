@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/blinkingIthink.unity
+- path: Assets/AnimatingObjects.unity
   isLoaded: 1
   isActive: 1
